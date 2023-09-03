@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif
+    sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+}
